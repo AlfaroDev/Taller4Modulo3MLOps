@@ -22,7 +22,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 print(f"--- Debug: Dimensiones de X_test: {X_test.shape} ---")  # Debería ser (n_samples, 10)
 
 # --- Cargar modelo previamente entrenado ---
-model_filename = "model.pkl"
+model_filename = "mlruns\\f9d5f1b2039547ac820ff961eb7bdd6a\\artifacts\\model\\model.pkl"
 model_path = os.path.abspath(os.path.join(os.getcwd(), model_filename))
 print(f"--- Debug: Intentando cargar modelo desde: {model_path} ---")
 
