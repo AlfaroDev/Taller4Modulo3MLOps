@@ -15,7 +15,7 @@ flavors:
     sklearn_version: 1.6.1
 mlflow_version: 2.22.0
 model_size_bytes: 564
-model_uuid: b922c27769e34eb78a6d848b0c7fc00e
+model_uuid: 77cd4e4f2782452d8e2afa490451ee24
 prompts: null
-run_id: dbe0752e78324330ba3f8b3790d1d487
-utc_time_created: '2025-05-03 18:59:46.712182'
+run_id: f9d5f1b2039547ac820ff961eb7bdd6a
+utc_time_created: '2025-05-03 19:25:56.569246'
